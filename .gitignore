@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+.env
+.env.local
+.DS_Store
+npm-debug.log
+.yarn-integrity
+# Logs
+logs
+*.log
+# Runtime data
+pids
+*.pid
+*.seed
+# Dev environment variables
+.env.local
+.env.*.local
+# Build output
+dist/
+build/
+# Dependency directories
+node_modules/
+jspm_packages/
+# Optional npm cache directory
+.npm/
+# IDEs and Editors
+.vscode/
+.idea/
